@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View view){
-                Toast.makeText(MainActivity.this,"vergessenButton",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"vergessen Button",Toast.LENGTH_SHORT).show();
             }
 
 
@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View view){
-                Toast.makeText(MainActivity.this,"bilderbuchButton",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"bilderbuch Button",Toast.LENGTH_SHORT).show();
             }
 
 
